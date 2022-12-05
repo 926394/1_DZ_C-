@@ -5,7 +5,6 @@
 // Console.Write("Введите число N: ");
 //  int N = int.Parse(Console.ReadLine()!);
 
-
 Console.Write("Введите число N: ");
 int N = int.Parse(Console.ReadLine()!);
 int i = 2;
